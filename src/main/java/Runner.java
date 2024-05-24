@@ -6,6 +6,10 @@ public class Runner {
         System.out.println("git add .: staing areaya alir");
 
 
+        // version 2
+        System.out.println("git commit -m\\ile version olusturulur");
+
+
 
 
 
